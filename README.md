@@ -14,5 +14,4 @@ I am a full stack developer. I prefer to work on the front end.
  ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
 
 # 📫 Get in touch
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yoshihiko5555)
 - [mail](mailto:yoshihiko05410@gmail.com)
