@@ -1,17 +1,101 @@
-# ✋ Hi, I'm Yoshihiko555　
+<h1 align="center">Hi there, I'm Yoshihiko 👋</h1>
 
-I am a full stack developer. I prefer to work on the front end.
+<p align="center">
+  <strong>Full Stack Developer / AI Engineer</strong><br>
+  7年以上のWebアプリケーション開発経験 | AIエージェント開発・Claude Code活用に注力
+</p>
 
-# ⚡ Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
-  
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<p align="center">
+  <a href="https://yoshihiko.tech">
+    <img src="https://img.shields.io/badge/Portfolio-yoshihiko.tech-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:yoshihiko05410@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yoshihiko05410-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/yoshihiko555">
+    <img src="https://img.shields.io/badge/GitHub-yoshihiko555-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
- ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)  ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
- 
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
- 
- ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
+---
 
-# 📫 Get in touch
-- [mail](mailto:yoshihiko05410@gmail.com)
+## ⚡ Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Infra
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### AI / ML
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### AI / Learning
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [**AI Orchestra**](https://github.com/yoshihiko555/ai-orchestra) | Python, YAML | Claude Code用マルチエージェントオーケストレーション。24種の専門エージェントを連携 |
+
+### Tools & Desktop Apps
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [**CC Usage**](https://github.com/yoshihiko555/cc-usage) | Swift, SwiftUI | Claude Code使用量リアルタイム監視 macOS メニューバーアプリ |
+| [**Nudge**](https://github.com/yoshihiko555/Nudge) | Go, Wails v3, Vue.js | Notionタスク管理 macOS メニューバーアプリ。Keychain連携でセキュア |
+| [**TabYank**](https://github.com/yoshihiko555/TabYank) | JavaScript | 複数タブのURLを一括コピーする Chrome 拡張機能 |
+| [**dotfiles**](https://github.com/yoshihiko555/dotfiles) | Stow, Lua, go-task | 個人設定ファイル管理。Claude / Codex / Gemini CLI設定の統合管理 |
+| [**GAS Tools**](https://github.com/yoshihiko555/google-apps-scripts) | JavaScript | Notion / YouTube / Gmail 連携の自動化スクリプト集 |
+
+### Web Applications
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [**tech-site**](https://github.com/yoshihiko555/tech-site) | Next.js, TypeScript, Vercel | プログラミング・AI関連の技術ブログ |
+| [**bandue**](https://github.com/yoshihiko555/bandue) | Vue.js, Django, Redis, Docker | 音楽クリエイター向けリアルタイムチャットSNS |
+
+---
+
+## 💪 Strengths
+
+- **フルスタック開発力** — フロントエンド（Vue.js, React, Next.js）からバックエンド（Go, Python, C#）まで一貫した開発が可能
+- **AI活用の推進** — Claude Codeのルール設計・サブエージェント活用など、AI駆動の開発効率化に取り組み中
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoshihiko555&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshihiko555&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoshihiko555&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
