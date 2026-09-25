@@ -46,6 +46,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### AI / ML
@@ -57,27 +58,26 @@
 
 ## 🚀 Projects
 
-### AI / Learning
+### AI / Agent Tooling
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [**AI Orchestra**](https://github.com/yoshihiko555/ai-orchestra) | Python, YAML | Claude Code用マルチエージェントオーケストレーション。24種の専門エージェントを連携 |
+| [**AI Orchestra**](https://github.com/yoshihiko555/ai-orchestra) | Python, YAML | Claude Code用マルチエージェントオーケストレーション。専門エージェント群と Codex / Antigravity CLI を連携し、CoDD でドキュメント間の整合性も管理 |
+| [**baton**](https://github.com/yoshihiko555/baton) | Go, Bubble Tea | tmux 上の AI コーディングセッション（Claude Code / Codex / OpenCode など）をリアルタイム監視する TUI ダッシュボード |
 
 ### Tools & Desktop Apps
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [**CC Usage**](https://github.com/yoshihiko555/cc-usage) | Swift, SwiftUI | Claude Code使用量リアルタイム監視 macOS メニューバーアプリ |
-| [**Nudge**](https://github.com/yoshihiko555/Nudge) | Go, Wails v3, Vue.js | Notionタスク管理 macOS メニューバーアプリ。Keychain連携でセキュア |
-| [**TabYank**](https://github.com/yoshihiko555/TabYank) | JavaScript | 複数タブのURLを一括コピーする Chrome 拡張機能 |
-| [**dotfiles**](https://github.com/yoshihiko555/dotfiles) | Stow, Lua, go-task | 個人設定ファイル管理。Claude / Codex / Gemini CLI設定の統合管理 |
-| [**GAS Tools**](https://github.com/yoshihiko555/google-apps-scripts) | JavaScript | Notion / YouTube / Gmail 連携の自動化スクリプト集 |
+| [**Nudge**](https://github.com/yoshihiko555/Nudge) | Go, Wails v3, JavaScript | Notionタスク管理 macOS メニューバーアプリ。Keychain連携でセキュア |
+| [**browser-extensions**](https://github.com/yoshihiko555/browser-extensions) | JavaScript | Chrome / Dia 向け拡張集。TabYank（タブURL一括コピー）、ui-context（選択したUI要素の情報をAIエージェントへ渡す） |
+| [**dotfiles**](https://github.com/yoshihiko555/dotfiles) | Nix, home-manager, go-task | nix-darwin + home-manager で Mac を宣言的に管理。Claude Code / Codex / Gemini CLI 設定も統合管理 |
 
 ### Web Applications
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [**tech-site**](https://github.com/yoshihiko555/tech-site) | Next.js, TypeScript, Vercel | プログラミング・AI関連の技術ブログ |
+| [**tech-site**](https://github.com/yoshihiko555/tech-site) | Nuxt.js, TypeScript, Contentful, Vercel | プログラミング・AI関連の技術ブログ（[yoshihiko.tech](https://yoshihiko.tech)） |
 | [**bandue**](https://github.com/yoshihiko555/bandue) | Vue.js, Django, Redis, Docker | 音楽クリエイター向けリアルタイムチャットSNS |
 
 ---
@@ -85,17 +85,17 @@
 ## 💪 Strengths
 
 - **フルスタック開発力** — フロントエンド（Vue.js, React, Next.js）からバックエンド（Go, Python, C#）まで一貫した開発が可能
-- **AI活用の推進** — Claude Codeのルール設計・サブエージェント活用など、AI駆動の開発効率化に取り組み中
+- **AI活用の推進** — Claude Code を軸に Codex / Antigravity CLI を組み合わせたマルチエージェント開発基盤を構築。ルール・スキル・hooks の設計からセッション監視ツールまで自作し、AI駆動の開発効率化に取り組み中
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoshihiko555&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshihiko555&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoshihiko555&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yoshihiko555&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoshihiko555&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=yoshihiko555&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
